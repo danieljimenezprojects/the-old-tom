@@ -52,7 +52,7 @@ function Scene() {
 						<Link
 							key={index}
 							to={`/scene/${choice.next}`}
-							className="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border h-9 sm:h-10 px-3 sm:px-4 py-1 sm:py-2 w-full justify-start text-left border-amber-700/30 bg-stone-900/80 hover:bg-amber-900/30 hover:text-amber-200 text-amber-300/90 font-serif transition-all duration-200 group relative overflow-hidden"
+							className="inline-flex items-center gap-2 rounded-md text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border h-9 sm:h-10 px-3 sm:px-4 py-1 sm:py-2 w-full justify-start text-left border-amber-700/30 bg-stone-900/80 hover:bg-amber-900/30 hover:text-amber-200 text-amber-300/90 font-serif transition-all duration-200 group relative overflow text-overflow"
 						>
 							{choice.text}
 						</Link>

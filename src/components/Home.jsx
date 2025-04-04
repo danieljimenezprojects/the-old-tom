@@ -9,10 +9,10 @@ function Home() {
 				</h1>
 				<div className="first-letter:text-amber-500 first-letter:text-3xl first-letter:font-bold first-letter:mr-1 first-letter:float-left first-letter:leading-6 space-y-4 pb-6 relative">
 					<p>
-						El humo flotaba entre las palabras del viejo Tomás mientras los
-						demás escuchábamos con preocupación. Ni siquiera la sonrisa del
-						viejo —acompañada por las arrugas en su frente y sus ojos— quitaba
-						peso a la situación.
+						El humo flotaba entre las palabras del viejo Tom mientras los demás
+						escuchábamos con preocupación. Ni siquiera la sonrisa del viejo
+						—acompañada por las arrugas en su frente y sus ojos— quitaba peso a
+						la situación.
 					</p>
 					<p className="italic">
 						—Hoy acabaremos con el reinado de "el Señor" o moriremos en el
