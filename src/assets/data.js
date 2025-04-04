@@ -91,7 +91,7 @@ export const story = {
 			},
 			{
 				type: 'text',
-				text: 'Al acercarnos, descubrimos… ¡no puede ser! Vemos a “El Señor” brillando con un aura terrorífica. Nunca nadie le había visto. Su cuerpo es el doble de su tamaño habitual y está envuelto en humo negro por el que corre electricidad. Esa electricidad es la luz que nos atrajo. Parece que no nos ha visto…',
+				text: 'Al acercarnos, descubrimos… ¡no puede ser! Vemos a “El Señor” brillando con un aura terrorífica. Nunca nadie le había visto con ese aspecto. Su cuerpo es el doble de su tamaño habitual y está envuelto en humo negro por el que corre electricidad. Esa electricidad es la luz que nos atrajo. Parece que no nos ha visto…',
 			},
 			{ type: 'separator' },
 		],
