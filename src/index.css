@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+:root {
+  --default-font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
