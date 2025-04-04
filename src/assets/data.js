@@ -73,7 +73,7 @@ export const story = {
 				next: '1.1.1',
 			},
 			{
-				text: 'Buscamos una casa que no me llame la atención para preparar el ataque',
+				text: 'Buscamos una casa que no llame la atención para preparar el ataque',
 				next: '1.1.2',
 			},
 		],
@@ -216,8 +216,7 @@ export const story = {
 		choices: [],
 	},
 	'1.1.2': {
-		title:
-			'Buscamos una casa que no me llame la atención para preparar el ataque',
+		title: 'Buscamos una casa que no llame la atención para preparar el ataque',
 		content: [
 			{
 				type: 'text',
